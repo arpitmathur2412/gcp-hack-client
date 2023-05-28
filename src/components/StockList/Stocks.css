@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    width: 80vw;
+    border-right:1px solid lightgray ;
+}
+table{
+    margin: 20px;
+    padding: 15px;
+}
+tbody{
+    padding: 15px;
+}
+tr{ 
+    padding: 15px;
+}
+th{
+    padding: 15px;
+}
+td{
+    padding: 15px;
+}
+.stock-card{
+    padding: 0;
+    width: 60vw;
+}
